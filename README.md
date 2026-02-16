@@ -5,7 +5,7 @@
 
 
 ## algorithm
-[[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kes2450%t=123)](https://solved.ac/kes2450)]
+[[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kes2450&cache=20260217)](https://solved.ac/kes2450)]
 
 
 
