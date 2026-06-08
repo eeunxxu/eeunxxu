@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">
+<h2>
   🏆 Algorithm
 </h2>
 
