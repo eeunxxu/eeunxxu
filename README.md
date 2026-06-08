@@ -8,7 +8,6 @@
   🏆 Algorithm
 </h2>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kes2450&cache=20260225)](https://solved.ac/kes2450)
 <div align="center" style="margin-bottom:40px">
   <a href="https://solved.ac/profile/kes2450">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kes2450" alt="Solved.ac 프로필" />
